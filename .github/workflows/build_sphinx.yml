@@ -20,7 +20,6 @@ jobs:
           pip install sphinx
       - name: Build documentation
         run: make html
-        working-directory: docs
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
