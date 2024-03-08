@@ -3,8 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PR Pilot!
+PR Pilot
 ====================================
+
+PR Pilot is an autonomous AI agent that collaborates with you on Github issues and pull requests.
+Just use the `/pilot` command in a comment and wait for it to respond.
+
 
 .. toctree::
    :maxdepth: 2
