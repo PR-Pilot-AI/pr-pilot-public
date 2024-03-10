@@ -15,7 +15,7 @@ PR Pilot is an autonomous AI agent that collaborates with you on Github issues a
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
    :hidden:
 
    quickstart

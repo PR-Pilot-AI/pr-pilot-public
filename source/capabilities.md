@@ -10,6 +10,9 @@ PR Pilot can read, write, move and delete files in your repository.
 PR Pilot can search for code in your repository. Mention any class, function, variable, etc. and PR Pilot will find
 it and know what to do.
 
+## Search existing Issues and PRs
+PR Pilot can search for context and references in existing issues and PRs.
+
 ## Read and Write to Issues and PRs
 You can mention issues or PRs and PR Pilot can work with them.
 
