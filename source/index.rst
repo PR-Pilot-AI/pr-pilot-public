@@ -4,21 +4,16 @@
    contain the root `toctree` directive.
 
 PR Pilot
-====================================
+=======
 
 PR Pilot is an autonomous AI agent that collaborates with you on Github issues and pull requests.
 Just use the `/pilot` command in a comment and wait for it to respond.
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   quickstart
+   use_cases
+   how_it_works
+   privacy_notice
