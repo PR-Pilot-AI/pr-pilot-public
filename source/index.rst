@@ -10,7 +10,7 @@ PR Pilot is an autonomous AI agent that collaborates with you on Github issues a
 
 1. `Install <https://github.com/apps/pr-pilot-ai>`_ PR Pilot into your repository
 2. Use ``/pilot <command>`` in any issue or PR comment.
-3. Head over to your `dashboard <https://app.prpilot.ai>`_ to see what PR Pilot is doing
+3. Head over to your `dashboard <https://app.pr-pilot.ai>`_ to see what PR Pilot is doing
 4. Wait for PR Pilot to respond to your comment
 
 
