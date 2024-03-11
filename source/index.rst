@@ -6,7 +6,9 @@
 PR Pilot
 ========
 
-PR Pilot is an autonomous AI agent that collaborates with you on Github issues and pull requests.
+PR Pilot is an AI collaborator for Github issues and pull requests. Once installed in your repository, you can use  `/pilot <command>` in any issue/PR comment to collaborate. PR Pilot will interpret the command in the context of your code and do research, answer questions or write code for you.
+
+Quickstart:
 
 1. `Install <https://github.com/apps/pr-pilot-ai>`_ PR Pilot into your repository
 2. Use ``/pilot <command>`` in any issue or PR comment.
