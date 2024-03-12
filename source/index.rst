@@ -26,5 +26,6 @@ Quickstart:
    examples
    vision
    roadmap
+   comparison
    privacy_notice
    support
