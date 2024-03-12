@@ -1,10 +1,22 @@
 # How it works
+**PR Pilot** behaves like any other user on GitHub. It reads and writes to issues and PRs, and communicates with you through comments.
 
-Here is what happens when you say `/pilot <command>` in a comment on an issue or PR:
+## How to use it
 
-1. **PR Pilot** reads your comment and understands your command using GPT-4.
-2. It adds a reaction to your comment so you know the command was received
-3. A new Docker container is created and your code is checked out into it.
-4. **PR Pilot** runs your command in the container. Depending on your command, it will read, write, move, or delete files in your repository, search for code, read and write to issues and PRs, and browse the web to find information.
-5. While it is executing the task, it will create events that you can follow in the [dashboard](https://app.pr-pilot.ai).
-6. Once the task is complete, the container is deleted.
+To get **PR Pilot** to do something, you just need to say `/pilot <command>` in a comment on an issue or PR.
+
+![PR Pilot](img/how_it_works_command.png)
+
+The bot will add a 👀 reaction to your comment so you know it's working on it.
+    
+When it's done, **PR Pilot** will respond with a comment that contains the result of the command.
+
+![PR Pilot](img/how_it_works_response.png)
+
+While it is executing the task, it will create events that you can follow in the [dashboard](https://app.pr-pilot.ai):
+
+![PR Pilot](img/how_it_works_dashboard.png)
+
+## How it works under the hood
+
+TODO: Add a diagram of the architecture of PR Pilot

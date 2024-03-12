@@ -34,5 +34,5 @@ Developers are protective of their code - and rightly so. We aim for the highest
 * **Minimal permissions** - You can enable/disable PR Pilot on a per-repository basis. It only has access to the repositories you allow it to access.
 
 ### Simplicity is Key
-We've learned that the simpler the interface, the more likely developers are to use it. By integrating with Github issues
-and PRs, we've made it easy for developers to interact with PR Pilot without leaving their familiar environment.
+We've learned that the simpler the interface, the more likely developers are to use it. By using Github issues
+and PRs as the user interface, we've made it easy for developers to interact with PR Pilot without leaving their familiar environment.
