@@ -28,18 +28,29 @@ exclude_patterns = []
 html_theme = 'sphinx_material'
 html_static_path = ['_static']
 html_theme_options = {
-    'base_url': 'https://pr-pilot.ai',
+    'base_url': 'https://docs.pr-pilot.ai',
     'repo_url': 'https://github.com/PR-Pilot-AI/pr-pilot-public',
     'repo_name': 'PR Pilot',
     'html_minify': True,
     'css_minify': True,
     'nav_title': 'PR Pilot',
-    'logo_icon': '&#xe869',
+    'logo_icon': '✈️',
     'globaltoc_depth': 2,
     "master_doc": False,
-    "nav_links": [],
+    "nav_links": [
+        {
+            "href": "https://github.com/apps/pr-pilot-ai",
+            "internal": False,
+            "title": "Get Started",
+        },
+{
+            "href": "https://app.pr-pilot.ai/dashboard/",
+            "internal": False,
+            "title": "Dashboard",
+        },
+    ],
     "heroes": {
-        "index": "Your AI collaborator for Github issues and PRs",
+        "index": "Your AI collaborator for Github",
     },
 }
 html_sidebars = {

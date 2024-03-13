@@ -1,7 +1,7 @@
+(examples)=
 # Usage Examples
 
-To showcase the capabilities of PR Pilot, I've forked some popular repositories and copied over open issues.
-Here are some examples of what PR Pilot can do.
+This page demonstrates how you can put **PR Pilot** to work.
 
 ## Investigate and Fix a Bug
 
@@ -30,5 +30,18 @@ just add **a review comment** and **PR Pilot** will understand and make the nece
 ![PR Pilot Understands the Issue](img/example3.png)
 
 
-## Write Unit Tests
-TODO: Add unit test example
+## Organize Dependencies
+
+[hex337/quantum-attendance](https://github.com/hex337/quantum-attendance/pull/79#issuecomment-1994839218)
+
+Does your dependency file need some cleaning up? Just tell **PR Pilot** to take care of it.
+
+![Clean up Gemfile](img/example_gemfile.png)
+
+## Generate Unit Tests
+
+[hex337/quantum-attendance](https://github.com/hex337/quantum-attendance/pull/78#issuecomment-1992749255)
+
+In this example, **PR Pilot** adds unit tests to an existing PR for a Ruby on Rails application.
+
+![Write Unit Tests](img/example_unit_tests.png)

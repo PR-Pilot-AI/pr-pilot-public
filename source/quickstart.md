@@ -1,3 +1,4 @@
+(quickstart)=
 # Quickstart
 
 1. [Install](https://github.com/apps/pr-pilot-ai) PR Pilot into your repository

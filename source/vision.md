@@ -29,6 +29,9 @@ in the context of your issue/PR, PR Pilot will understand and execute them and n
 
 ![A new PR has been created](img/presented_pr.png)
 
+### Team Collaboration
+PR Pilot is not just for individual developers. It can help your entire team/project by plugging into your existing workflows on Github.
+
 ### Beyond Coding
 Github CoPilot and similar tools have been groundbreaking for the developer community. 
 However, it is limited to the boundaries of your IDE. PR Pilot is not. It can help you with your code, 
