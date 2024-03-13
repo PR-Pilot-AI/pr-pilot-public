@@ -27,5 +27,6 @@ Quickstart:
    vision
    roadmap
    comparison
+   pricing
    privacy_notice
    support
