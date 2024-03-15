@@ -3,10 +3,12 @@
 PR Pilot is currently in a very early stage of development. To fulfill our [vision](vision.md), 
 there are several milestones to be reached.
 
-
 ## Stabilize the Core Functionality
-The quality of the results and the stability of the system are our top priority. In order to be a useful 
+The quality of the results is a top priority. In order to be a useful 
 companion for developers, PR Pilot needs to be reliable and provide high-quality results. 
+
+## Implement Continuous Learning
+As you use PR Pilot, it should be able to learn from your interactions and improve its performance over time.
 
 ## Deeper Integration with Github
 You should be able to use PR Pilot in any context where you can interact with Github. This includes:

@@ -25,5 +25,6 @@ PR Pilot is an AI collaborator for Github issues and pull requests. Once install
    pricing
    privacy_notice
    support
+   faq
 
 Get started with our :ref:`quickstart` tutorial and :ref:`examples`.

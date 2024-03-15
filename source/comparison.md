@@ -40,3 +40,16 @@ PR Pilot is not. It can help you with your code, your issues, your PRs, and even
 **Cons**:
 - Not available yet
 
+## Fine
+[Fine](https://www.fine.dev/) is a powerful platform that hosts AI agents that you can use
+for various code-related tasks.
+
+**Pros**:
+- Integrates with Github issues and PRs
+- Can understand your code base and answer questions
+- Subscription model
+
+**Cons**:
+- Complex platform with its own user interface
+- Not as easy to use as PR Pilot
+- Tailored towards larger teams and enterprise customers
