@@ -3,6 +3,33 @@
 
 This page demonstrates how you can put **PR Pilot** to work.
 
+## Sketch out a new Project
+
+You have a great idea and want to start working on it ASAP, but finding out how to set up
+dependencies, project structure, etc. is a pain. Just tell **PR Pilot** to do it for you.
+
+In [this example](https://github.com/mlamina/what-about-jobs/issues/1) I have an empty Github project
+and create an issue explaining the details about the project. 
+
+![Sketch out a new project](img/example_sketch_project.png)
+
+It provides me with a step-by-step plan, which we can then collaborate on.
+
+
+## Create Github issues for new Tasks
+It is good practice to create a Github issue for new tasks that you want to work on.
+**PR-Pilot** can do that for you.
+
+![Create Github issues](img/example_create_issues.png)
+
+These tasks are now available for you and **PR Pilot** to work on.
+
+## Refine Tickets
+Writing detailed and clear tickets is important for a smooth development process.
+**PR Pilot** can help you with that. [Just say which tickets you want to refine and how](https://github.com/mlamina/what-about-jobs/issues/1#issuecomment-2002192680).
+
+![Refine Tickets](img/example_refine_tickets.png)
+
 ## Investigate and Fix a Bug
 
 [pallets/flask](https://github.com/PR-Pilot-AI/demo-flask/issues/2)

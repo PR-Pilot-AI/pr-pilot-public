@@ -48,3 +48,7 @@ Developers are protective of their code - and rightly so. We aim for the highest
 ### Simplicity is Key
 We've learned that the simpler the interface, the more likely developers are to use it. By using Github issues
 and PRs as the user interface, we've made it easy for developers to interact with PR Pilot without leaving their familiar environment.
+
+## Keep the Flow
+Flow is a state of mind where you are fully immersed in a task. Switching between different tools and interfaces can break your flow.
+With PR Pilot, you can stay in the flow and get things done without interruptions.
