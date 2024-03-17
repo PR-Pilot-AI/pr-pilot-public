@@ -1,7 +1,8 @@
 (examples)=
 # Usage Examples
 
-This page demonstrates how you can put **PR Pilot** to work.
+This page demonstrates how you can put **PR Pilot** to work. you an also check out 
+our **[Demo Project](https://github.com/mlamina/what-about-jobs)**, which **PR Pilot** built from scratch entirely on its own.
 
 ## Sketch out a new Project
 
