@@ -43,10 +43,15 @@ html_theme_options = {
             "internal": False,
             "title": "Get Started",
         },
-{
+        {
             "href": "https://app.pr-pilot.ai/dashboard/",
             "internal": False,
             "title": "Dashboard",
+        },
+        {
+            "href": "https://github.com/mlamina/what-about-jobs",
+            "internal": False,
+            "title": "Demo",
         },
     ],
     "heroes": {
