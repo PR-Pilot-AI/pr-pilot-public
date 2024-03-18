@@ -8,4 +8,4 @@ If you have anu questions, comments or concerns, please feel free to create a ne
 If you've found a bug or have a feature request, please create a new issue in the [Issues](https://github.com/PR-Pilot-AI/pr-pilot-public/issues).
 
 ## Email
-You can also get in touch with me directly using the [contact form](https://www.marcolamina.me/contact).
+You can also get in touch with me directly using the [contact form](https://www.pr-pilot.ai/contact).
