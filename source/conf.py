@@ -34,6 +34,7 @@ html_theme_options = {
     'html_minify': True,
     'css_minify': True,
     'nav_title': 'PR Pilot',
+    'google_analytics_account': 'G-86FJ02W45S',
     'logo_icon': '✈️',
     'globaltoc_depth': 2,
     "master_doc": False,
