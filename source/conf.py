@@ -45,7 +45,7 @@ html_theme_options = {
             "title": "Get Started",
         },
         {
-            "href": "https://app.pr-pilot.ai/dashboard/",
+            "href": "https://app.pr-pilot.ai/dashboard/tasks/",
             "internal": False,
             "title": "Dashboard",
         },
