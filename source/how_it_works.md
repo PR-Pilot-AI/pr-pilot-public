@@ -1,6 +1,22 @@
 # How it works
 **PR Pilot** behaves like any other user on GitHub. It reads and writes to issues and PRs, and communicates with you through comments.
-For examples, check out our [Demo Project](https://github.com/mlamina/what-about-jobs/issues/1).
+
+
+## First: Let's set expectations
+To get the most out of the tool and avoid frustration, it's important to understand its current limitations.
+**PR Pilot** is currently in **early development**. I am actively collecting feedback and improving the bot.
+It works well for small, well-defined tasks. For example:
+* [Creating Boilerplate Code](https://github.com/PR-Pilot-AI/pr-pilot-demo-django/issues/1)
+* [Sketching out a new project](https://github.com/mlamina/what-about-jobs/issues/1)
+* [Refining Tickets](https://github.com/mlamina/what-about-jobs/issues/1#issuecomment-2002192680)
+* [Generating Unit Tests](https://github.com/hex337/quantum-attendance/pull/78#issuecomment-1992749255)
+
+It still struggles with complex tasks that require a deep understanding of the codebase or the project's domain:
+* [Interpreting vague instructions](https://github.com/mlamina/what-about-jobs/issues/4#issuecomment-1998946675)
+* Referring back to previous conversations
+* "Knowing" how your commands relate to the project's code and domain
+
+I'm working hard on improving these aspects. Check out the [roadmap](./roadmap.md) to see what's coming next.
 
 ## Have a Conversation
 

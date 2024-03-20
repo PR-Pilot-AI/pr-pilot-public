@@ -1,5 +1,7 @@
-# Contact and Support
-Thank you for being interested in my work. I'm always happy to help and support you in any way I can. Here are a few ways you can get in touch with me.
+(support)=
+# Feedback and Support
+Thank you for being interested in my work. PR Pilot is still in early development and actively shaped by
+the feedback I get from the community.
 
 ## Discussions
 If you have anu questions, comments or concerns, please feel free to create a new discussion in the [Discussions](https://github.com/PR-Pilot-AI/pr-pilot-public/discussions).

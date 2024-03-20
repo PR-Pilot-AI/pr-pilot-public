@@ -1,3 +1,4 @@
+(roadmap)=
 # Roadmap
  
 PR Pilot is currently in a very early stage of development. To fulfill our [vision](vision.md), 
@@ -7,8 +8,17 @@ there are several milestones to be reached.
 The quality of the results is a top priority. In order to be a useful 
 companion for developers, PR Pilot needs to be reliable and provide high-quality results. 
 
+## Improve the User Experience
+We want to make using PR Pilot as easy and intuitive as possible. This includes:
+* Providing an "Undo" functionality to quickly rollback changes you didn't want
+* More transparent error reporting in case something goes wrong
+* Better continuity of conversations across different issues and PRs
+
 ## Implement Continuous Learning
-As you use PR Pilot, it should be able to learn from your interactions and improve its performance over time.
+As you use PR Pilot, it should be able to learn from your interactions and improve its performance over time, this includes:
+* Learning from the feedback you provide
+* Learning from insights it gets from reading your code
+* Retrieving that knowledge in the right place at the right time
 
 ## Deeper Integration with Github
 You should be able to use PR Pilot in any context where you can interact with Github. This includes:
