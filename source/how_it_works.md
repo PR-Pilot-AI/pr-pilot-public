@@ -37,13 +37,22 @@ You can also talk to **PR Pilot** in PR reviews.
 
 
 ## Monitor
-While a task is running, **PR Pilot** will create events that you can follow in the [dashboard](https://app.pr-pilot.ai):
+While a task is running, **PR Pilot** will create events that you can follow in the [dashboard](https://app.pr-pilot.ai/dashboard/tasks/):
 
 ![PR Pilot](img/how_it_works_dashboard.png)
 
 You'll also get a detailed overview of how your credits were spent.
 
 ![Monitoring PR Pilot](img/how_it_works_cost.png)
+
+## Rollback
+If you're not happy with the result, just hit the "Undo" button:
+
+![PR Pilot](img/undo1.png)
+
+and choose which actions you want to undone:
+
+![PR Pilot](img/undo2.png)
 
 ## Teach
 You can "teach" **PR Pilot** by populating a `pilot-hints.md` file in your repository, allowing you to control 
